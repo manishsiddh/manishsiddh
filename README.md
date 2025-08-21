@@ -1,4 +1,5 @@
-![Banner]("C:\Users\Manish Siddh\Downloads\web developer image my details.png")
+![Banner](https://raw.githubusercontent.com/USERNAME/REPO/main/images/banner.png)
+
 
 
 
