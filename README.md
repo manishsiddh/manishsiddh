@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image%20my%20details.png" alt="My Details" style="width:900px; height:375px;">
+  <img src="image%20my%20details.png" alt="My Details" style="width:900px; height:325px;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Manish Siddh</h1>
