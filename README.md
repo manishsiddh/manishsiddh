@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/USERNAME/REPO/main/images/banner.png)
+![My Details](image%20my%20details.png)
 
 
 
