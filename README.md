@@ -1,7 +1,6 @@
-![My Details](image%20my%20details.png)
-
-
-
+<p align="center">
+  <img src="image%20my%20details.png" alt="My Details" width="600">
+</p>
 
 <h1 align="center">Hi 👋, I'm Manish Siddh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
