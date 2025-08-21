@@ -1,4 +1,4 @@
-![Banner](./depositphotos_301587134-stock-illustration-programming-web-banner.jpg)
+![Banner]("C:\Users\Manish Siddh\Downloads\web developer image my details.png")
 
 
 
