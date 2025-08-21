@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fvector%2Fprogramming-web-banner-301587134.html&psig=AOvVaw1hVA6tLb0oRQsl0zx6GCLM&ust=1755859022299000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiTwNXb2puPAxUNpicCHStyMK4QjRx6BAgAEBo)
+![logo]("C:\Users\Manish Siddh\OneDrive\Desktop\depositphotos_301587134-stock-illustration-programming-web-banner.jpg")
 <h1 align="center">Hi 👋, I'm Manish Siddh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
